@@ -4,7 +4,7 @@ This data science project focuses on developing a machine learning model to iden
 
 # Project Steps
 ## 1. Data Collection
-The first step involves collecting a large dataset of question pairs from Quora. The dataset should include pairs of questions with corresponding labels indicating whether they are duplicate or not. It is essential to ensure the dataset is diverse and representative of the question types and language variations on the platform.
+The first step involves collecting a large dataset of question pairs from Quora. The dataset should include pairs of questions with corresponding labels indicating whether they are duplicate or not. It is essential to ensure the dataset is diverse and representative of the question types and language variations on the platform. Link to data https://www.kaggle.com/competitions/quora-question-pairs/data
 
 ## 2. Data Preprocessing
 Data preprocessing is crucial to clean and prepare the dataset for analysis. This step involves text cleaning, removing special characters, converting text to lowercase, and handling any inconsistencies in the data. Additionally, we perform tokenization, stop-word removal, and stemming or lemmatization to standardize the text representation.
